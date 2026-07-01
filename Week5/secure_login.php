@@ -7,6 +7,7 @@ $pass = 'secure_password';
 
 $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
 
+
 $username = $_POST['username'];
 $password = $_POST['password'];
 

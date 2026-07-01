@@ -1,0 +1,9 @@
+[INFO] Maltego Graph Export 2026-06-15
+Entity: Domain, Value: kenya-airways.com
+Discovered associated DNS records.
+Found contact email: admin@kenya-airways.com on secondary server.
+Irrelevant data string: support@gmail.com
+Entity: Person, Value: John Doe
+Associated email: hr-recruitment@kenya-airways.com
+Additional records found matching bi.reports@kenya-airways.com in public database.
+End of export.
